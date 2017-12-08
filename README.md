@@ -1,6 +1,6 @@
 # programacao-imperativa
 
-DESCRIÇÃO DO TRABALHO PRÁTICO 1
+
 Imagine que você foi contratado para desenvolver um sistema de controle de transações
 financeiras. O sistema deverá permitir que sejam cadastrados ilimitados clientes, contas e
 transações. Os dados devem ser armazenados em arquivo para que fiquem disponíveis mesmo
